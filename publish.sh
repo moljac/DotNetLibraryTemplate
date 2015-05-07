@@ -12,7 +12,7 @@ NUGET=nuget
 #
 FILE=nuget-set-api-key.secure.sh
 NUGETS="
-	artifacts\HolisticWare.System.Data.DataSetExtensions.*.nupkg
+	artifacts\DotNetLibrary.*.nupkg
 	"
 	
 	

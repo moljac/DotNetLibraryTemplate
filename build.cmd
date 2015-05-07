@@ -10,10 +10,10 @@ call %VSVARS%
 ::call %VSDEVCMD% 
 
 set SOLUTIONS=^
-	"HolisticWare.System.Data.DataSetExtensions.sln" ^
+	"DotNetLibraryTemplate.sln" ^
 	
 .nuget\nuget.exe ^
-		restore HolisticWare.System.Data.DataSetExtensions.sln
+		restore DotNetLibraryTemplate.sln
 
 	.nuget\nuget.exe restore ..\%%s
 

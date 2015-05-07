@@ -13,7 +13,7 @@ set NUGET=.nuget\nuget
 ::
 set FILE=nuget-set-api-key.secure.cmd
 SET NUGETS=^
-	"artifacts\HolisticWare.System.Data.DataSetExtensions.*.nupkg" ^
+	"artifacts\DotNetLibrary.*.nupkg" ^
 	
 	
 If exist %FILE% (

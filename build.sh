@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOLUTIONS="
-	HolisticWare.System.Data.DataSetExtensions.sln
+	DotNetLibraryTemplate.sln
 "
 
 # x`build cannot be used for iOS projects

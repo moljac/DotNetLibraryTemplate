@@ -8,7 +8,7 @@ del /q artifacts\*.*
 ::	*Unpack.nuspec is for packaging structure to be copied to duplo-dep-nugets 
 
 SET NUSPECS=^
-	"src\HolisticWare.System.Data.DataSetExtensions.nuspec" ^
+	"src\DotNetLibrary.nuspec" ^
 
 
 FOR %%n IN (%NUSPECS%) DO (

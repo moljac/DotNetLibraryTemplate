@@ -5,7 +5,7 @@ set NUGET=.nuget\nuget
 rm -fr artifacts/*
 
 NUSPECS="
-	src/HolisticWare.System.Data.DataSetExtensions.nuspec
+	src/DotNetLibrary.nuspec
 	"
 	
 	
